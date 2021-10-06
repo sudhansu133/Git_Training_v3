@@ -1,2 +1,7 @@
 This is test file for sample down
+<<<<<<< HEAD
 This is another commit from the local machine
+=======
+This is my second file.
+This is my third file.
+>>>>>>> 0e617e0480fbbf4a9f00f3dea01353b6fd78a24e
